@@ -1,0 +1,1 @@
+This project is for practice of Code Katas and Learning Extreme programming
