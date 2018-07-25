@@ -1,4 +1,4 @@
-package com.practice.kata;
+package com.practice.kata.light;
 
 public class ChristmasLight {
 	private OnOffState[][] lights = new OnOffState[1000][1000];

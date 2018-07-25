@@ -1,4 +1,4 @@
-package com.practice.kata;
+package com.practice.kata.light;
 
 public enum OnOffState {
 	OFF, ON

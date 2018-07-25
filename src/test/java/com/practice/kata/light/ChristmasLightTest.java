@@ -1,10 +1,13 @@
-package com.practice.kata;
+package com.practice.kata.light;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.notNullValue;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import com.practice.kata.light.ChristmasLight;
+import com.practice.kata.light.OnOffState;
 
 public class ChristmasLightTest {
 	
